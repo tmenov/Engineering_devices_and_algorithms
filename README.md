@@ -10,3 +10,4 @@ Preliminary device reset system.
 Disintegrator Lens.
 Wave resonant evaporator of matter Flower.
 Evaporator of matter Needle.
+Living bullet - description, device design.
