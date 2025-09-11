@@ -1,6 +1,10 @@
 # Engineering_devices_and_algorithms
 Engineering devices of extraterrestrial origin and algorithms for analysis and use.
 
+September 11, 2025.
+Disintegrator Lens - description. 
+Wave resonant evaporator of matter Flower - description. 
+Evaporator of matter Needle - description.
 
 September 10, 2025.
 Ball - description, announcement of the device design for September 15, 2025.
